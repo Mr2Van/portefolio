@@ -2,6 +2,7 @@
     min-height: 23rem;
     width: 100%;
     border-radius: 0.65rem;
+    margin: 1rem;
     border:1.5px solid #6751b9;
     background:rgba(22, 17, 47, 0.398);
     backdrop-filter: blur(1rem);
@@ -68,5 +69,11 @@
     .skills-info-content{
 
         padding: 1.5rem;
+    }
+}
+
+@media (max-width:768px){
+    .skills-info-card{
+        margin: 2rem;
     }
 }

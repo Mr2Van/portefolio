@@ -1,7 +1,8 @@
 .experience-container{
 
-    margin:4rem 0;
+    margin:4rem 1rem;
     position:relative;
+
 }
 
 .experience-container h5{
@@ -22,7 +23,7 @@
     border: 1.5px solid #6751b9;
     border-radius: 0.65rem;
     position: absolute;
-    top: 55%;
+    top: 60%;
     z-index: 2;
   }
 
@@ -32,11 +33,11 @@
   } 
   
   .arrow-right {
-    right: 0rem;
+    right: 1rem;
   }
   
   .arrow-left {
-    left: 0rem;
+    left: 1rem;
   }
 .material-symbols-outlined {
     font-size: 24px;
@@ -50,11 +51,11 @@
     }
 
     .arrow-left{
-        left: -1rem;
+        left: 0rem;
     }
 
     .arrow-right{
-        left: -1rem;
+        right: 0rem;
     }
 
     
